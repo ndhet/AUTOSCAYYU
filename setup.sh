@@ -1,6 +1,6 @@
 #!/bin/bash
 # // REPO
-REPO="https://raw.githubusercontent.com/ndhet/AUTOSCAYYU/main"
+REPO="https://raw.githubusercontent.com/ndhet/AUTOSCAYYU/main/"
 clear
 restart_system() {
 TIME="10"
