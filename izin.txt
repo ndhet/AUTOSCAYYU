@@ -1,2 +1,2 @@
-Andeslo 188.166.250.251 Lifetime
+Andeslo 16.78.6.28 Lifetime
 sshaxor 157.230.245.254 Lifetime
