@@ -577,7 +577,7 @@ wget https://raw.githubusercontent.com/acmesh-official/acme.sh/master/acme.sh
 bash acme.sh --install
 rm acme.sh
 cd .acme.sh
-bash acme.sh --register-account -m rere@rerechan02.com
+bash acme.sh --register-account -m dedihaxor@gmail.com
 bash acme.sh --issue --standalone -d $domain --force
 bash acme.sh --installcert -d $domain --fullchainpath /etc/xray/xray.crt --keypath /etc/xray/xray.key
 wget -O /etc/xray/config.json ${REPO}config.json
