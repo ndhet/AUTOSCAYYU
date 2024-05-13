@@ -119,7 +119,7 @@ apt install ruby -y
 apt install nginx -y
 apt -y install wget curl
 gem install lolcat
-apt install python -y
+apt install python2 -y
 apt install neofetch -y
 apt install bc -y
 apt install make -y
